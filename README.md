@@ -21,7 +21,7 @@
 
 ## About this repository
 
-This repository is a fork of [YangguangZhou/Cards](https://github.com/YangguangZhou/Cards) by teaSummer.
+This repository is a fork of [YangguangZhou/Cards](https://github.com/YangguangZhou/Cards) by teaSummer, modified by teaSummer and XiaozhiSans.
 
 ## License
 
