@@ -1,7 +1,7 @@
 {
-  "name": "cards",
+  "name": "cards-fork",
   "version": "1.0.0",
-  "description": "个人名片 Cards",
+  "description": "Cards, Fork from YangguangZhou/Cards",
   "main": "index.js",
   "dependencies": {
     "ip": "^1.1.5",
@@ -18,7 +18,6 @@
     "type": "git",
     "url": "git+https://github.com/teaSummer/cards.git"
   },
-  "author": "'YangguangZhou' <yangguangzhousunny@163.com> (https://jerryz.com.cn/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/teaSummer/cards/issues"
