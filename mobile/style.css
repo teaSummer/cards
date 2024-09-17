@@ -122,21 +122,21 @@ body {
     font-size: 14px;
 }
 
-.copyright {
+.copyright, .fork {
     text-align: center;
     margin: 15px 0;
     color: #999;
     font-size: 14px;
 }
 
-.copyright a {
+.copyright a, .fork a {
     text-decoration: none;
     font-weight: bold;
     color: unset;
     transition: opacity .2s;
 }
 
-.copyright a:hover {
+.copyright a:hover, .fork a:hover {
     opacity: .5;
 }
 
