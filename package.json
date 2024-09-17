@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YangguangZhou/Cards.git"
+    "url": "git+https://github.com/teaSummer/cards.git"
   },
   "author": "'YangguangZhou' <yangguangzhousunny@163.com> (https://jerryz.com.cn/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/YangguangZhou/Cards/issues"
+    "url": "https://github.com/teaSummer/cards/issues"
   },
-  "homepage": "https://github.com/YangguangZhou/Cards#readme"
+  "homepage": "https://github.com/teaSummer/cards#readme"
 }

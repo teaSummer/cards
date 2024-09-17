@@ -1,28 +1,27 @@
 # 个人名片 Cards
 
-基于 Vercel Severless 和 node.js 开发.
+基于 Vercel Severless 和 node.js 开发，是[YangguangZhou/Cards](https://github.com/YangguangZhou/Cards)仓库的分支.
 
-访问地址：[cards.jerryz.com.cn/api](https://cards.jerryz.com.cn/api)
+访问地址：[cards.mcisee.top/api](https://cards.mcisee.top/api)
 
-推荐使用生成器：[cards.jerryz.com.cn](https://cards.jerryz.com.cn)
+推荐使用生成器：[cards.mcisee.top](https://cards.mcisee.top)
 
-![](https://card.jerryz.com.cn/white)
+![](https://cards.mcisee.top/white)
 
 如果想要自行试验或者二次开发可以自行部署到自己的 vercel 服务器，登录 [vercel](https://vercel.com/) 后，点击下方按钮即可部署。
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/YangguangZhou/Cards)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/teaSummer/cards)
 
-![stars](https://badgen.net/github/stars/YangguangZhou/Cards)
-![forks](https://badgen.net/github/forks/YangguangZhou/Cards)
-![visitor](https://visitor-badge.laobi.icu/badge?page_id=Cards)
-![last commit](https://shields.io/github/last-commit/YangguangZhou/Cards?style=flat)
-![top language](https://img.shields.io/github/languages/top/YangguangZhou/Cards?style=flat)
+![stars](https://badgen.net/github/stars/teaSummer/cards)
+![forks](https://badgen.net/github/forks/teaSummer/cards)
+![last commit](https://shields.io/github/last-commit/teaSummer/cards?style=flat)
+![top language](https://img.shields.io/github/languages/top/teaSummer/cards?style=flat)
 
-![Cards](https://github-readme-stats.vercel.app/api/pin/?username=YangguangZhou&repo=Cards)
+![Cards](https://github-readme-stats.vercel.app/api/pin/?username=teaSummer&repo=cards)
 
 ## About this repository
 
-This repository is a fork of [Xecades/API](https://github.com/Xecades/API) with additional modifications by JerryZhou.
+This repository is a fork of [YangguangZhou/Cards](https://github.com/YangguangZhou/Cards) by teaSummer.
 
 ## License
 

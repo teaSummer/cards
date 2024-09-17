@@ -73,7 +73,7 @@
             <el-col :span="3" class="text" :xs="7">社交账号</el-col>
             <div class="input">
                 <div class="social" v-for="(o, index) in icons">
-                    <el-image class="socialimg" :src="'https://cards.jerryz.com.cn/res/icon/' + o + '.svg'"
+                    <el-image class="socialimg" :src="'https://cards.mcisee.top/res/icon/' + o + '.svg'"
                         style="overflow: unset;"></el-image>
                     <el-input v-model="social[index]" :placeholder="o"></el-input>
                 </div>
@@ -89,10 +89,14 @@
             <span id="busuanzi_value_site_uv"><i class="el-icon-loading"></i></span> Viewers
         </div>
 
+        <div class="fork">
+            Fork by: <a href="https://github.com/teaSummer" target="_blank">teaSummer</a>
+        </div>
+
         <div class="copyright">
             Copyright &copy; 2021-2024 <a href="https://jerryz.com.cn" target="_blank">Jerry Zhou</a>
             </br>
-            <a href="https://github.com/YangguangZhou/Cards" target="_blank">GitHub</a>
+            <a href="https://github.com/teaSummer/cards" target="_blank">GitHub</a>
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.min.js"></script>
